@@ -20,3 +20,30 @@ ini baris 7
     "age" : 2001
     }
 ```
+## Feature
+- [ ] Register
+- [x] Register2
+
+ini adalah [link](https://google.com) ke google
+
+_ini italic_
+
+**INIBOLD**
+
+**_ini bold italic gan_**
+
+# _INI HEADER ITALIC_
+
+ini [sebuah link][alamat1]
+
+ini [link yang lain][alamat2]
+
+[alamat1]: www.facebook.com
+[alamat2]: www.twitter.com
+
+![ini kocheng oren](https://i.ytimg.com/vi/V015SjjbYXE/maxresdefault.jpg)
+
+>>BLock Quote Kochenk OreN
+
+>kocheng biasnaya makan yang amis2 tuh suka banget
+
