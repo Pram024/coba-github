@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ini line pertama. tspu udah di add. ini di edit juga sebelum di commit
+=======
+ini line pertama. tspu udah di add
+ngedit cabangcabangan1
+>>>>>>> cabang1
